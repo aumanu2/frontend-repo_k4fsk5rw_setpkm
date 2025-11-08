@@ -1,0 +1,93 @@
+[
+  {
+    "id": "med-college-road-plot",
+    "title": "Prime Plot – Medical College Road",
+    "location": "Medical College Road",
+    "type": "Plot",
+    "area": "10,000 sq. ft",
+    "areaSqft": 10000,
+    "price": "On Request",
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?q=80&w=2069&auto=format&fit=crop",
+    "description": "Exclusive 10,000 sq. ft plot — ideal for corporate offices, institutions, or luxury development.",
+    "features": ["Wide Road", "Prime Location", "Utility Ready", "Clear Title"],
+    "map": "https://www.google.com/maps?&q=Medical%20College%20Road%2C%20Gorakhpur&output=embed"
+  },
+  {
+    "id": "kutchery-road-commercial",
+    "title": "Commercial Plot – Kutchery Road",
+    "location": "Kutchery Road",
+    "type": "Commercial",
+    "area": "8,000 sq. ft",
+    "areaSqft": 8000,
+    "price": "On Request",
+    "image": "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?q=80&w=2069&auto=format&fit=crop",
+    "description": "Strategic commercial parcel on the busy Kutchery Road corridor.",
+    "features": ["Wide Frontage", "High Footfall", "Utilities Nearby"],
+    "map": "https://www.google.com/maps?q=Kutchery%20Road%20Gorakhpur&output=embed"
+  },
+  {
+    "id": "civil-lines-office",
+    "title": "Luxury Office Site – Civil Lines",
+    "location": "Civil Lines",
+    "type": "Office",
+    "area": "7,500 sq. ft",
+    "areaSqft": 7500,
+    "price": "On Request",
+    "image": "https://images.unsplash.com/photo-1486325212027-8081e485255e?q=80&w=2069&auto=format&fit=crop",
+    "description": "An elite office site in the heart of Civil Lines with excellent approach.",
+    "features": ["Premium Address", "Ample Parking", "Great Connectivity"],
+    "map": "https://www.google.com/maps?q=Civil%20Lines%20Gorakhpur&output=embed"
+  },
+  {
+    "id": "university-land",
+    "title": "Institutional Land – Near Gorakhpur University",
+    "location": "Near Gorakhpur University",
+    "type": "Institutional",
+    "area": "15,000 sq. ft",
+    "areaSqft": 15000,
+    "price": "On Request",
+    "image": "https://images.unsplash.com/photo-1529429612779-c8e40ef2f36c?q=80&w=2069&auto=format&fit=crop",
+    "description": "Large institutional land parcel ideal for campuses and R&D.",
+    "features": ["Corner Access", "Wide Road", "Clearances Ready"],
+    "map": "https://www.google.com/maps?q=Deen%20Dayal%20Upadhyay%20Gorakhpur%20University&output=embed"
+  },
+  {
+    "id": "pardihat-corner",
+    "title": "Corner Plot – Pardihat Road",
+    "location": "Pardihat Road",
+    "type": "Plot",
+    "area": "6,000 sq. ft",
+    "areaSqft": 6000,
+    "price": "On Request",
+    "image": "https://images.unsplash.com/photo-1462078563783-650e23af5498?q=80&w=2069&auto=format&fit=crop",
+    "description": "Corner plot with dual approach and easy logistics.",
+    "features": ["Two-Side Open", "Utility Ready", "Good Surroundings"],
+    "map": "https://www.google.com/maps?q=Pardihat%20Road%20Gorakhpur&output=embed"
+  },
+  {
+    "id": "colonelganj-mixed",
+    "title": "Mixed-use Development – Colonelganj Road",
+    "location": "Colonelganj Road",
+    "type": "Mixed-use",
+    "area": "12,000 sq. ft",
+    "areaSqft": 12000,
+    "price": "On Request",
+    "image": "https://images.unsplash.com/photo-1465414829459-d228b58caf6e?q=80&w=2069&auto=format&fit=crop",
+    "description": "Ideal for retail + office stack with strong frontage.",
+    "features": ["Main Road", "Great Visibility", "Dense Catchment"],
+    "map": "https://www.google.com/maps?q=Colonelganj%20Road%20Gorakhpur&output=embed"
+  },
+  {
+    "id": "golghar-retail",
+    "title": "Retail Space – Golghar",
+    "location": "Golghar",
+    "type": "Retail",
+    "area": "3,000 sq. ft",
+    "areaSqft": 3000,
+    "price": "On Request",
+    "image": "https://images.unsplash.com/photo-1548191265-cc70d3d45ba1?q=80&w=2069&auto=format&fit=crop",
+    "description": "Retail-ready space in the commercial nucleus of Gorakhpur.",
+    "features": ["High Footfall", "Brand Neighbours", "Transit Proximity"],
+    "map": "https://www.google.com/maps?q=Golghar%20Gorakhpur&output=embed"
+  }
+]
